@@ -8,6 +8,9 @@ A Power BI dashboard analyzing call center performance by project, month and age
 - Service Level: 91.1%
 - Abandonment Rate: 1.3%
 - Average Speed of Answer (ASA): 9.2
+- Performance breakdown by project month and agant
+- Drillthrough page to investigate abandoned calls by agent
+
 
 ## Tools
 Power BI, DAX
